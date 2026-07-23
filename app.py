@@ -4,7 +4,7 @@ import pandas as pd
 st.title("Nassau Candy - Shipping Optimization Dashboard")
 
 # Load your optimized file
-df = pd.read_csv(r'D:\Nassau Codiinator\Final_Optimized_Data.csv')
+df = pd.read_csv('Final_Optimized_Data.csv')
 
 # Dropdown for Product
 selected_product = st.selectbox("Select Product:", df['Product Name'].unique())
