@@ -28,8 +28,9 @@ The current logistics framework relied on static, rule-based processes, leading 
 3. Run the dashboard: `streamlit run app.py`
 
 ## Screenshots
-*(Yahan apni dashboard wali image paste kar do)*
-![Dashboard Screenshot](Screenshot_path_or_link)
+![Dashboard Screenshot](https://github.com/mohit8059/Nassau-Candy-Optimization/blob/main/Screenshot%202026-07-23%20121103.pngz
+,)
+
 
 ## Results
 - Successfully automated the "Nearest Factory" identification.
